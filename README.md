@@ -4,7 +4,7 @@ This repository contains the raw data used for the study looking at the effects 
 
 The data was collected between between june and december 2023.
 
-The raw data is available [here](giga_spreadsheet_new.csv), the labelling system is available [here](labelling.docx) and the FlowCytometry data [here](Olivia_171123-Batch_Analysis_17112023122652 - Olivia_171123-Batch_Analysis_17112023122652.csv).  
+The raw data is available [here](full_spreadsheet.csv), the labelling system is available [here](labelling.docx) and the FlowCytometry data [here](Olivia_171123-Batch_Analysis_17112023122652 - Olivia_171123-Batch_Analysis_17112023122652.csv).  
 
 **Description of variables:**
 | Variable                      | Description                                                                           |
